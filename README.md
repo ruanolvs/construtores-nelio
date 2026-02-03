@@ -1,2 +1,2 @@
-# nesse repositorio fiz um exercicio de construtores de umdos cursos que to fazeno de java
+# nesse repositorio fiz um exercicio de construtores de um dos cursos que to fazeno de java
 
